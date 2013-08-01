@@ -1,0 +1,19 @@
+/*
+JTBD: put the posts on the left and the leaderboard on the right
+Dependencies: none?
+*/
+
+body {
+  margin: 0;
+}
+
+.posts {
+  margin-right: 30%;
+}
+
+.leaderboard {
+  position: fixed;
+  right: 0;
+  top: 0;
+  width: 30%;
+}
